@@ -141,9 +141,4 @@ function getEvent($id){
     $row = $res->fetch_assoc();
     return $row;
 }
-
-//echo "".createAccount("sasff343", "sfasfasf", "sfafs", "9999999999", "fdfsdfds", "dfsdfs"); 
-//echo "".updateAccount("cceclub4343", "dfdfdf", "dfdfd", "dfdfdf", "fdfdfd", "fdfdfd", "fdfdf", "fdfdfdf", "fdfdfd", "dfdfdf");
-//$conn->close();
-//SELECT LAST_INSERT_ID();
 ?>
